@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "02cf196d-0b18-4416-acc7-e1754e54d3d5"
+      }
+    },
+    "owner": "miguel_salazar_dev"
   }
 }
